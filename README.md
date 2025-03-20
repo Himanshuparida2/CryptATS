@@ -43,10 +43,10 @@ File Structure
 -> public/: Static files for the frontend.
 -> src/components/: React components used throughout the app.
 
-###Learn More
+##Learn More
 To learn more about Next.js and how to extend this app, check out the following resources:
 [Next.js Documentation](https://nextjs.org/docs)
 [Learn Next.js](https://nextjs.org/learn)
 
-###Contributing
+##Contributing
 Feel free to fork this repository and submit pull requests for any improvements.
