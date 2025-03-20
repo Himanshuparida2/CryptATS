@@ -45,8 +45,8 @@ File Structure
 
 ## Learn More
 To learn more about Next.js and how to extend this app, check out the following resources:
-[Next.js Documentation](https://nextjs.org/docs)
 
+[Next.js Documentation](https://nextjs.org/docs)
 [Learn Next.js](https://nextjs.org/learn)
 
 ## Contributing
